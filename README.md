@@ -36,8 +36,6 @@ _Les liens_
 * [youtube](https://www.youtube.com/channel/UC7XhVCykTsQEJp6P0eTVfmQ)  
   
   
-Brief projet website [dossier](./Brief projet website/Brief projet website PanKart 20210212.docx)
-   
 ##Concept  
 
 ##Plan du site
