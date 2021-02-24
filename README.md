@@ -9,7 +9,7 @@ Un projet client sur un groupe belge de rock celtique engagé (Pankart): (https:
 
 ## Plan du site
 
-## Notes
+## Mes notes
 Année de création en 2008  
 Html 5 (responsive)  
 Design site moderne qui donne envie de rester dessus  
