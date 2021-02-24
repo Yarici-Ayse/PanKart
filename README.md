@@ -1,5 +1,13 @@
 # PanKart
+
 Un projet client sur un groupe belge de rock celtique engagé (Pankart)
+
+# Moodboard
+
+[milanote](https://app.milanote.com/1Ld1Wl1pCy552r?p=Ut2SPLiDXMZ)
+
+
+# Plan du site
 
 ## Notes
 Année de création en 2008  
@@ -35,9 +43,6 @@ _Les liens_
 * [lampli](https://lampli.be/artist-profile/pankart/)  
 * [youtube](https://www.youtube.com/channel/UC7XhVCykTsQEJp6P0eTVfmQ)  
   
-  
-##Concept  
 
-##Plan du site
 
 
