@@ -1,13 +1,13 @@
 # PanKart
 
-Un projet client sur un groupe belge de rock celtique engagé (Pankart)
+Un projet client sur un groupe belge de rock celtique engagé (Pankart): (https://github.com/hepl-dw/projet-pankart)
 
-# Moodboard
+## Moodboard
 
-[milanote](https://app.milanote.com/1Ld1Wl1pCy552r?p=Ut2SPLiDXMZ)
+[Milanote](https://app.milanote.com/1Ld1Wl1pCy552r?p=Ut2SPLiDXMZ)
 
 
-# Plan du site
+## Plan du site
 
 ## Notes
 Année de création en 2008  
