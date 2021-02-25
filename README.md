@@ -9,6 +9,8 @@ Un projet client sur un groupe belge de rock celtique engagé (Pankart): (https:
 
 ## Plan du site
 
+## Stratégie
+
 ## Mes notes
 
 * Année de création en 2008  
