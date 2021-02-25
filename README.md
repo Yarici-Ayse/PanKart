@@ -9,6 +9,8 @@ Un projet client sur un groupe belge de rock celtique engagé (Pankart): (https:
 
 ## Plan du site
 
+[Mon plan site](https://github.com/Yarici-Ayse/PanKart/blob/main/Plan%20du%20site.md)
+
 ## Stratégie
 
 ## Mes notes
