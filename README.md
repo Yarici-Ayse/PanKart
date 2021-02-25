@@ -2,18 +2,18 @@
 
 Un projet client sur un groupe belge de rock celtique engagé (Pankart): (https://github.com/hepl-dw/projet-pankart)
 
-## Moodboard
+## ◾ Moodboard
 
 [Milanote](https://app.milanote.com/1Ld1Wl1pCy552r?p=Ut2SPLiDXMZ)
 
 
-## Plan du site
+## ◾ Plan du site
 
 [Mon plan site](https://github.com/Yarici-Ayse/PanKart/blob/main/Plan%20du%20site.md)
 
-## Stratégie
+## ◾ Stratégie
 
-## Mes notes
+## ◾ Mes notes
 
 * Année de création en 2008  
 * Html 5 (responsive)  
