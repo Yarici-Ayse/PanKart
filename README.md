@@ -9,7 +9,7 @@ Un projet client sur un groupe belge de rock celtique engagé (Pankart): (https:
 
 ## ◾ Plan du site
 
-# Première Page
+### Première Page
 * Logo
 * Menu
 * Accueil
@@ -61,7 +61,7 @@ _Apps_
 * Google Play
 * SoundCloud
 
-# Pages
+### Pages
 
 ### ◾ Page " Biographie "
 
