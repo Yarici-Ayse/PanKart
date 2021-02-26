@@ -9,13 +9,112 @@ Un projet client sur un groupe belge de rock celtique engagé (Pankart): (https:
 
 ## ◾ Plan du site
 
-[Mon plan site](https://github.com/Yarici-Ayse/PanKart/blob/main/Plan%20du%20site.md)
+# Première Page
+* Logo
+* Menu
+* Accueil
+* Biographie
+* Galerie
+* Paroles
+* Contact
+* Une grande photo du groupe
+* Le nom du groupe (Pankart)
+
+******Scrollez vers le bas****
+
+### ◾ Section " Agenda des concerts "
+
+* La date
+* Le nom
+* Lieu
+
+### ◾ Section " Photos "
+
+* Mettre quelques photos
+
+### ◾ Section " Contact "
+
+* Un bouton écrit 'Formulaire'
+
+### ◾ Aside " News " 
+
+* Le titre du news
+* Une photo
+* Une petite description
+* La date (quand est-il publier sur site)
+
+### ◾ Footer " Liens "
+
+_Réseaux sociaux_
+
+* Facebook
+* Instagram
+
+_Apps_
+
+* Bandsintown
+* Streaming
+* Spotify
+* Deezer
+* AppleMusic
+* Amazon
+* Google Play
+* SoundCloud
+
+# Pages
+
+### ◾ Page " Biographie "
+
+* Une grande photo du groupe
+* Une description
+* Année de création
+* Pays
+* Genre musical
+* Suivre l'artiste
+* Une photo de chaque membre du groupe
+* Avec leurs noms et leurs rôles
+
+### ◾ Page " Galerie "
+
+* Photos
+* Vidéos 
+* 
+### ◾ Page " Paroles "
+
+* Le titre
+* Qui a écrit les paroles (citez les noms)
+* Composition & Arrangements
+* La chanson complète
+* 
+### ◾ Page " Contact "
+
+* Formulaire
+    * Nom
+    * Prénom
+    * E-mail
+    * Un message
+    * Bouton 'Envoyez'
+    * Liens
+
+* Réseaux sociaux
+    * Facebook
+    * Instagram
+
+* Apps
+    * Bandsintown
+    * Streaming
+    * Spotify
+    * Deezer
+    * AppleMusic
+    * Amazon
+    * Google Play
+    * SoundCloud
 
 ## ◾ Stratégie
 
 ### _Description_
 
-Pankart est un groupe de rock celtique engagé depuis 2018. Ils sont 6 membres dans le groupe. Leurs public cible sont agée de 20 - 30 ans.
+Pankart est un groupe de rock celtique engagé depuis 2018. Ils sont 6 membres dans le groupe.
 
 ### _Objectif_
 
