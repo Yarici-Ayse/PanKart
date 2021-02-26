@@ -65,7 +65,7 @@ _Apps_
 * Une photo de chaque membre du groupe 
 * Avec leurs noms et leurs rôles
 
-### ◾ Page " Galeris "
+### ◾ Page " Galerie "
 
 * Photos
 * Vidéos
