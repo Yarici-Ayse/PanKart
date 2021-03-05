@@ -1,17 +1,23 @@
 # PanKart
 
-Un projet client sur un groupe belge de rock celtique engagé (Pankart): (https://github.com/hepl-dw/projet-pankart)
+Un projet client sur un groupe belge de rock celtique engagé (Pankart) depuis 2018. Ils sont 6 membres dans le groupe : (https://github.com/hepl-dw/projet-pankart)
 
 ## ◾ Moodboard
 
 [Milanote](https://app.milanote.com/1Ld1Wl1pCy552r?p=Ut2SPLiDXMZ)
 
 
+## ◾ Objectif
+
+L'objectif est de faire connaître le groupe par tous le monde avoir + de fans et pour que les l'organisateur puissent leur contacter via le site.
+
 ## ◾ Plan du site
 
 ### Première Page
+
+#### Menu
 * Logo
-* Menu
+   * Placer à droite de la page
 * Accueil
 * Biographie
 * Galerie
@@ -19,13 +25,15 @@ Un projet client sur un groupe belge de rock celtique engagé (Pankart): (https:
 * Contact
 * Une grande photo du groupe
 * Le nom du groupe (Pankart)
+   * Sera écrit sur la photo du groupe en grand
 
 ******Scrollez vers le bas****
 
 ### ◾ Section " Agenda des concerts "
 
 * La date
-* Le nom
+   * JJ/MM/AA
+* Le nom des concerts
 * Lieu
 
 ### ◾ Section " Photos "
@@ -34,14 +42,15 @@ Un projet client sur un groupe belge de rock celtique engagé (Pankart): (https:
 
 ### ◾ Section " Contact "
 
-* Un bouton écrit 'Formulaire'
+* Un bouton écrit 'Formulaire' grand au milieu avec une couleur pour mettre en valeur
 
 ### ◾ Aside " News " 
 
 * Le titre du news
-* Une photo
-* Une petite description
+* Une photo qui représente l'info
+* Une petite description (très courte en 2 ou 3 lignes)
 * La date (quand est-il publier sur site)
+   * JJ/MM/AA
 
 ### ◾ Footer " Liens "
 
@@ -71,21 +80,27 @@ _Apps_
 * Pays
 * Genre musical
 * Suivre l'artiste
+   * Mettre à côté les icons des réseaux sociaux, Appl 
 * Une photo de chaque membre du groupe
+   * Placer l'une en-desous des autres
 * Avec leurs noms et leurs rôles
+   * Noms écrit en gras
 
 ### ◾ Page " Galerie "
 
 * Photos
+   * Placer comme une grille (Grid Layout)
 * Vidéos 
-* 
+
 ### ◾ Page " Paroles "
 
-* Le titre
-* Qui a écrit les paroles (citez les noms)
-* Composition & Arrangements
-* La chanson complète
-* 
+* Lien des titres de chansons
+ * Quans on clique sur chaque liens
+    * Le titre
+     * Qui a écrit les paroles (citez les noms)
+     * Composition & Arrangements
+     * La chanson complète
+
 ### ◾ Page " Contact "
 
 * Formulaire
@@ -94,6 +109,7 @@ _Apps_
     * E-mail
     * Un message
     * Bouton 'Envoyez'
+     * Placer au milieu
     * Liens
 
 * Réseaux sociaux
@@ -109,16 +125,6 @@ _Apps_
     * Amazon
     * Google Play
     * SoundCloud
-
-## ◾ Stratégie
-
-### _Description_
-
-Pankart est un groupe de rock celtique engagé depuis 2018. Ils sont 6 membres dans le groupe.
-
-### _Objectif_
-
-L'objectif est de faire connaître le groupe par tous le monde avoir + de fans et pour que les l'organisateur puissent leur contacter via le site.
 
 ### _Cheminement de l'utilisateur_
 
